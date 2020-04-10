@@ -33,3 +33,9 @@ container h1
 {
     font-size: 70px;
 }
+
+#post
+{
+    background: white;
+    padding: 1em;
+}
